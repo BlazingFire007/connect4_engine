@@ -2,4 +2,8 @@
 
 Fun project created to help me learn c++.
 
-Build: `g++ ./src/**/*.cpp -o c4 -O3`
+Build:
+
+```sh
+g++ ./src/**/*.cpp -o c4 -O3
+```
