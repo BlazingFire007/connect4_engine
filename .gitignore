@@ -1,0 +1,6 @@
+/obj
+/windows
+/.vscode
+*.gch
+.DS_Store
+c4
